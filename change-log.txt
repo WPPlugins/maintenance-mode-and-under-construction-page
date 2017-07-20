@@ -1,0 +1,11 @@
+== Changelog ==
+04/10/2016
+1. Minor issue is fixed.
+2. Pricing page added.
+3. Banner changeed
+
+
+20/06/2016
+1. Fixed random select removed issue.
+2. Change heading on subscriber list area 'Mail To Subscribers' to  Manual mail to subscribers'.
+3. remove auto update option subscriber status after mail send by manual mail option.
